@@ -24,7 +24,7 @@ Promptly/
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/promptly.git
+git clone https://github.com/JDWilliums/promptly.git
 cd promptly
 ```
 
