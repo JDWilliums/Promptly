@@ -20,6 +20,14 @@ Promptly/
 │── README.md                        # Project documentation
 ```
 
+## 📋 Prerequisites
+
+Before installing, ensure you have the following installed on your system:
+
+Python 3.10+ : https://www.python.org/downloads/
+
+Git : https://git-scm.com/downloads
+
 ## 📦 Installation
 
 ### 1️⃣ **Clone the Repository**
